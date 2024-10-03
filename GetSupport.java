@@ -14,7 +14,7 @@ public class GetSupport extends JFrame{
 	}
 	//实现发送反馈
 	public void SendFeedback(ActionEvent e) {
-		JOptionPane.showMessageDialog(null,"该功能尚未实现，有事请联系作者。\n联系方式：2386459781@qq.com","发送反馈" ,0);
+		JOptionPane.showMessageDialog(null,"该功能尚未实现，有事请联系作者。\n联系方式：*****@qq.com","发送反馈" ,0);
 	}
 			
 	//实现查看帮助
@@ -41,8 +41,8 @@ public class GetSupport extends JFrame{
 	public void About(ActionEvent e) {
 		JOptionPane.showMessageDialog(null,
 				"*********************************************\n" 
-				+ " 编写者：李咏仪 2022214103\n"
-				+ " 编写时间：2024-09\n" + "QQ：2386459781\n"
+				+ " 编写者：姓名 学号\n"
+				+ " 编写时间：2024-09\n" + "QQ：****\n"
 				+ " 有些功能尚未实现，如有不足请提出建议\n" 
 				+ "*********************************************\n",
 				"关于",
