@@ -1,4 +1,4 @@
-package com.cqupt.lyy.Notepad;
+package com.cqupt.Notepad;
 
 import java.awt.*;
 import java.awt.event.*;
