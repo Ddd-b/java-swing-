@@ -1,4 +1,4 @@
-package com.cqupt.Notepad;
+package Notepad;
 
 import javax.swing.undo.UndoManager;
 import java.text.SimpleDateFormat;
