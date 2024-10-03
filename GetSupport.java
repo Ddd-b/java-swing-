@@ -1,4 +1,4 @@
-package com.cqupt.Notepad;
+package Notepad;
 
 import java.awt.Desktop;
 import java.awt.event.ActionEvent;
