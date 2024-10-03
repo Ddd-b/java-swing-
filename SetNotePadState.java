@@ -1,4 +1,4 @@
-package com.cqupt.lyy.Notepad;
+package com.cqupt.Notepad;
 
 import javax.swing.*;
 import java.awt.Font;
